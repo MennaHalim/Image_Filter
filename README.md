@@ -58,7 +58,7 @@ Adaptive median filter implemented with TWO different algorithms:
 # Timing graphs:
 1.	Display two graphs to show the execution time against different window sizes (3, 5, 7,… Wmax), where Wmax is user input:
 
-   1.	One graph for alpha-trim filter to compare its two methods (counting & selecting kth element)
+     1.	One graph for alpha-trim filter to compare its two methods (counting & selecting kth element)
    
-   2.	Another graph for adaptive median filter to compare its two methods (quick & counting).
+     2.	Another graph for adaptive median filter to compare its two methods (quick & counting).
 
