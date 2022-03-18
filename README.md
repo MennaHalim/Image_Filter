@@ -24,6 +24,7 @@ The idea is to calculate the average of some neighboring pixels' values after tr
 This filter is usually used to remove both salt & pepper noise and random noise. 
 
 ![Screenshot 2022-03-18 215055](https://user-images.githubusercontent.com/75753459/159074162-406b57e5-98ef-4271-ac89-92a1b1e1e16f.png)
+
 Alpha-trim filter implemented with TWO different algorithms: 
 
 1.	Counting Sort
